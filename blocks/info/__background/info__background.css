@@ -1,0 +1,10 @@
+.info__background {
+    margin: 0;
+    padding: 0;
+    background-image: url(../../../images/borderflower.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 636px;
+    max-height: 624px;
+    min-width: 1204px;
+}

@@ -1,0 +1,47 @@
+.info {
+    margin: -157px 0 0;
+    padding: 0;
+    background-image: url(../../images/aqua_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    z-index: 0;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+@media (min-width: 1440px) {
+    .info {
+        margin: -54px 0 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+    .info {
+        margin: -44px 0 0;
+        background-size: cover;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+    .info {
+        margin: -44px 0 0;
+        background-size: cover;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 499px) {
+    .info {
+        margin: -44px 0 0;
+        background-size: contain;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .info {
+        margin: -44px 0 0;
+        background-size: contain;
+    }
+}

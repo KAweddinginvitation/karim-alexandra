@@ -1,0 +1,13 @@
+.header__border {
+    margin: 0;
+    padding: 0;
+    fill: #657776;
+    max-height: 44.597px;
+    flex-shrink: 0;
+}
+
+@media (min-width: 280px) and (max-width: 768px) {
+    .header__border {
+        max-height: 12px;
+    }
+}

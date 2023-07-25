@@ -1,0 +1,71 @@
+.cell__image {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 180px;
+    right: 27px;
+    top: -101px;
+    transform: rotate(240deg);
+}
+
+@media (min-width: 1440px) {
+    .cell__image {
+        width: 210px;
+        right: -5px;
+        top: -106px;
+        transform: rotate(240deg);
+    }
+}
+
+
+
+@media (min-width: 1001px) and (max-width: 1280px) {
+    .cell__image {
+        width: 180px;
+        right: 27px;
+        top: -101px;
+        transform: rotate(240deg);
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+    .cell__image {
+        right: -33px;
+        top: -66px;
+        transform: rotate(240deg);
+    }
+}
+
+@media (min-width: 580px) and (max-width: 767px) {
+    .cell__image {
+        right: -33px;
+        top: -66px;
+        transform: rotate(240deg);
+    }
+}
+
+@media (min-width: 500px) and (max-width: 579px) {
+    .cell__image {
+        right: -33px;
+        top: -66px;
+        transform: rotate(240deg);
+    }
+}
+
+
+@media (min-width: 400px) and (max-width: 499px) {
+    .cell__image {
+        right: -33px;
+        top: -66px;
+        transform: rotate(240deg);
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .cell__image {
+        right: -20px;
+        top: -75px;
+        transform: rotate(240deg);
+    }
+}

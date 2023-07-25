@@ -1,0 +1,39 @@
+.header__number {
+    margin: 0;
+    padding: 0;
+    color: #B99982;
+    font-family: Apoc LC;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.56px;
+}
+
+
+@media (min-width: 1440px) {
+    .header__number {
+        font-size: 78px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+    .header__number {
+        font-size: 30px;
+        max-width: 32px;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+    .header__number {
+        font-size: 24px;
+        max-width: 25px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 499px) {
+    .header__number {
+        font-size: 19px;
+        max-width: 21px;
+    }
+}

@@ -1,0 +1,88 @@
+.cell__item {
+    margin: 0;
+    padding: 0;
+    max-width: 296.6px;
+    min-height: 267.7px;
+    border: 2px solid #C79F57;
+    border-image: linear-gradient(to right top, #C79F57, #FFF1D7, #c79f57);
+    border-image-slice: 1;
+    background-color: #ffffff;
+    color: #7F7399;
+    text-align: center;
+    font-family: Apoc LC;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 148%;
+    letter-spacing: 2.86px;
+    list-style: none;
+    text-transform: uppercase;
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+
+@media (min-width: 1440px) {
+    .cell__item {
+        font-size: 15px;
+    }
+}
+
+
+@media (min-width: 1000px) and (max-width: 1280px) {
+    .cell__item {
+        max-width: 256.6px;
+        min-width: 256.6px;
+        min-height: 245.7px;
+        margin: 0;
+        font-size: 12px;
+        letter-spacing: 1.98px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+    .cell__item {
+        max-width: 296.6px;
+        min-height: 267.7px;
+        margin: 0;
+        font-size: 10px;
+        letter-spacing: 1.98px;
+    }
+}
+
+
+@media (min-width: 500px) and (max-width: 767px) {
+    .cell__item {
+        max-width: 220px;
+        min-height: 219px;
+        margin: 0;
+        font-size: 9px;
+        letter-spacing: 1.98px;
+    }
+}
+
+
+@media (min-width: 400px) and (max-width: 499px) {
+    .cell__item {
+        max-width: 220px;
+        min-height: 219px;
+        margin: 0;
+        font-size: 9px;
+        letter-spacing: 1.98px;
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .cell__item {
+        max-width: 220px;
+        min-height: 219px;
+        margin: 0;
+        font-size: 9px;
+        letter-spacing: 1.98px;
+    }
+}

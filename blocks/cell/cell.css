@@ -1,0 +1,52 @@
+.cell {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 1000px) {
+    .cell {
+        flex-direction: column;
+        gap: 32px;
+        margin: 10px 0 20px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+    .cell {
+        flex-direction: column;
+        gap: 32px;
+        margin: 10px 0 20px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 499px) {
+    .cell {
+        flex-direction: column;
+        gap: 32px;
+        margin: 10px 0 20px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .cell {
+        flex-direction: column;
+        gap: 32px;
+        margin: 10px 0 20px;
+        align-items: center;
+        justify-content: center;
+    }
+}

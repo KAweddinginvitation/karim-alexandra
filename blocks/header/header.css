@@ -1,0 +1,54 @@
+.header {
+    margin: auto;
+    padding: 0;
+    /* height: 100vh; */
+    background-image: url(../../../images/body.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+@media (min-width: 1440px) {
+    .header {
+        background-size: contain;
+    }
+}
+
+/* @media (min-width: 768px) and (max-width: 1000px) {
+    .header {
+        height: 70vh; 
+        background-size: cover;
+        background-position: 50%;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+    .header {
+        height: 50vh; 
+        background-size: cover;
+        background-position: 50%;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 499px) {
+    .header {
+         height: 40vh; 
+        background-size: cover;
+        background-position: 50%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .header {
+         height: 33vh; 
+        background-size: cover;
+        background-position: 50%;
+    }
+} */
