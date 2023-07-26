@@ -26,7 +26,7 @@
         margin: 0 0 21px;
         font-size: 9px;
         letter-spacing: 2.5px;
-        line-height: unset;
+        line-height: 1.2;
         padding: 32px 25px 0;
         word-wrap: break-word;
         font-weight: 400;
@@ -36,10 +36,10 @@
 
 @media (min-width: 500px) and (max-width: 767px) {
     .info__title {
-        margin: 0 0 21px;
+        margin: 0 0 10px;
         font-size: 9px;
         letter-spacing: 2.5px;
-        line-height: unset;
+        line-height: 1.2;
         padding: 32px 25px 0;
         word-wrap: break-word;
         font-weight: 400;
@@ -49,10 +49,10 @@
 
 @media (min-width: 400px) and (max-width: 499px) {
     .info__title {
-        margin: 0 0 21px;
+        margin: 0 0 10px;
         font-size: 9px;
         letter-spacing: 2.5px;
-        line-height: unset;
+        line-height: 1.2;
         padding: 32px 25px 0;
         word-wrap: break-word;
         font-weight: 400;
@@ -62,10 +62,10 @@
 
 @media (min-width: 320px) and (max-width: 399px) {
     .info__title {
-        margin: 0 0 21px;
+        margin: 0 0 10px;
         font-size: 9px;
         letter-spacing: 2.5px;
-        line-height: unset;
+        line-height: 1.2;
         padding: 32px 25px 0;
         word-wrap: break-word;
         font-weight: 400;

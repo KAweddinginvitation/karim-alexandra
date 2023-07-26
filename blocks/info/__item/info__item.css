@@ -26,7 +26,7 @@
 
 @media (min-width: 768px) and (max-width: 1000px) {
     .info__item {
-        font-size: 14px;
+        font-size: 10px;
         letter-spacing: 1.5px;
         line-height: unset;
         padding: 0 40px 0;
@@ -36,7 +36,7 @@
 
 @media (min-width: 500px) and (max-width: 767px) {
     .info__item {
-        font-size: 12px;
+        font-size: 10px;
         letter-spacing: 1.5px;
         line-height: unset;
         padding: 0 40px 0;
