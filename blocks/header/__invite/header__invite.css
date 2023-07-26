@@ -42,7 +42,7 @@
 
 @media (min-width: 320px) and (max-width: 389px) {
     .header__invite {
-        font-size: 6.5px;
+        font-size: 5.5px;
         letter-spacing: 1.5px;
     }
 }
