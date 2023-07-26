@@ -39,3 +39,9 @@
         gap: 10px;
     }
 }
+
+@media (max-height: 650px) {
+    .header__body {
+        height: 450px;
+    }
+}

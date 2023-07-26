@@ -9,6 +9,14 @@
 
 
 
+@font-face {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./TimesNewRoman.woff2") format("woff2"),
+        url("./TimesNewRoman.woff") format("woff");
+}
 
 
 
