@@ -3,9 +3,26 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("./Apoc-LightSans-App.woff2") format("woff2"),
-        url("./Apoc-LightSans-App.woff") format("woff");
+    src: url("./Apoc-LightSans-Web.woff2") format("woff2"),
+        url("./Apoc-LightSans-Web.woff") format("woff");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
